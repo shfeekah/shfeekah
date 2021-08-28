@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shfeekah
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning nothing but maybe vector illustration which is self taught lol
 - 💞️ I’m looking to collaborate on something that will benefit me later
 
