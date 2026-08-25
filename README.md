@@ -96,30 +96,7 @@ fun_fact: >
 
 ---
 
-## 🐣 currently cooking...
 
-### ☁️ a thesis project
-
-**A Lightweight, Adaptive & Explainable User Behaviour Analytics Framework for Cloud Data Leakage Detection**
-
-working on:
-
-`multi-modal behavioural features`
-`→ anomaly detection`
-`→ concept drift adaptation`
-`→ explainable security alerts`
-
-Basically:
-
-> **"what is this user doing?"**
-> ↓
-> **"is it weird?"**
-> ↓
-> **"why is it weird?"**
-> ↓
-> **"should we worry?"** 🔐
-
----
 
 ## 🌸 projects i'm proud of
 
