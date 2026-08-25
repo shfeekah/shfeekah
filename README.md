@@ -17,33 +17,7 @@ I want to know **why it made that decision too.** 🎀
 
 <br clear="right"/>
 
----
 
-## a little about me
-
-```yaml
-name: Shafika Binte Ismail
-degree: Information & Communication Engineering
-currently: building + learning + occasionally fighting bugs at 3am
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Explainable AI
-  - User Behaviour Analytics
-  - Cloud Security
-  - Software Development
-
-currently_learning:
-  - Anomaly Detection
-  - Explainable ML
-  - Cloud Security
-  - Real-time Behaviour Analytics
-
-fun_fact: >
-  I like making serious technical projects look cute ✨
-```
-
----
 
 ## 🧸 things i've built
 
@@ -96,18 +70,6 @@ fun_fact: >
 ---
 
 
-
-
-## 📊 github garden
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafikabinteismail&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff8fbd&icon_color=ff8fbd&text_color=888888" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikabinteismail&layout=compact&hide_border=true&bg_color=00000000&title_color=ff8fbd&text_color=888888" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shafikabinteismail&hide_border=true&background=00000000&ring=ff8fbd&fire=ff8fbd&currStreakLabel=ff8fbd" />
-</p>
 
 
 
