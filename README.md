@@ -19,7 +19,7 @@ I want to know **why it made that decision too.** 🎀
 
 ---
 
-## 🌷 a little about me
+## a little about me
 
 ```yaml
 name: Shafika Binte Ismail
@@ -28,7 +28,6 @@ currently: building + learning + occasionally fighting bugs at 3am
 interests:
   - Artificial Intelligence
   - Machine Learning
-  - Cybersecurity
   - Explainable AI
   - User Behaviour Analytics
   - Cloud Security
@@ -98,44 +97,6 @@ fun_fact: >
 
 
 
-## 🌸 projects i'm proud of
-
-<details>
-<summary>💌 Email Spam Detection</summary>
-
-A machine-learning spam classifier using:
-
-* TF-IDF feature extraction
-* Linear SVM
-* SMS Spam Collection dataset
-
-**Accuracy: 98.65%**
-
-</details>
-
-<details>
-<summary>🧸 MomCare</summary>
-
-An explainable AI early-warning system exploring postpartum depression risk assessment using behavioural/survey-based indicators.
-
-The focus is not just prediction — it's making the model's reasoning understandable.
-
-</details>
-
-<details>
-<summary>☁️ Cloud Insider-Threat Research</summary>
-
-My current research direction explores non-NLP User Behaviour Analytics for cloud environments, focusing on:
-
-* lightweight anomaly detection
-* adaptive models
-* concept drift
-* explainable alerts
-* real-time telemetry
-
-</details>
-
----
 
 ## 📊 github garden
 
@@ -148,24 +109,7 @@ My current research direction explores non-NLP User Behaviour Analytics for clou
   <img src="https://streak-stats.demolab.com?user=Shafikabinteismail&hide_border=true&background=00000000&ring=ff8fbd&fire=ff8fbd&currStreakLabel=ff8fbd" />
 </p>
 
----
 
-## 🐇 tiny corner of the internet
-
-```text
-╭────────────────────────────────────╮
-│                                    │
-│   🌷 code       →   make things    │
-│   🧸 ai         →   make them smart│
-│   🔐 security   →   keep them safe │
-│   🎀 design     →   make them cute │
-│                                    │
-│          one bug at a time ♡       │
-│                                    │
-╰────────────────────────────────────╯
-```
-
----
 
 ## 💌 let's connect
 
@@ -186,5 +130,5 @@ My current research direction explores non-NLP User Behaviour Analytics for clou
 </p>
 
 <p align="center">
-  <sub>୨୧ ─────────────── ୨୧</sub>
+  <sub> <3 ─────────────── <3 </sub>
 </p>
