@@ -2,7 +2,7 @@
 
 <img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d6bXh0a3F1d2J1d3R5Z2Z4eTg0bGJxY2h4b3N5cWJ6a2R3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btNa0RUYa5E7iiQ/giphy.gif">
 
-### `ice student` · `ai/ml explorer` · `cybersecurity girlie` 🐰
+### `ice student` · `ai/ml explorer` 
 
 > building things that are **smart, secure & a little bit cute** ✦
 
