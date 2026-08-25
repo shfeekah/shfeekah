@@ -19,7 +19,7 @@ I want to know **why it made that decision too.** 🎀
 
 
 
-## 🧸 things i've built
+##  Things I've worked with
 
 ### 🤖 AI / ML
 
