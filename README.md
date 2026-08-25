@@ -1,213 +1,116 @@
-# 🎀 hey, i'm shafika !
+<div align="center">
 
-<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d6bXh0a3F1d2J1d3R5Z2Z4eTg0bGJxY2h4b3N5cWJ6a2R3dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btNa0RUYa5E7iiQ/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FADADD,50:E5D4EF,100:C9E4DE&height=210&section=header&text=heyyy%2C%20it's%20shafika!%20%E2%99%A1&fontSize=34&fontColor=6B5B73&animation=fadeIn&fontAlignY=42&desc=welcome%20to%20my%20lil%20corner%20of%20the%20internet%20%E2%9C%A6&descAlignY=62&descSize=16&descColor=8A7690" width="100%"/>
 
-### `ice student` · `ai/ml explorer` · `cybersecurity girlie` 🐰
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=B37E9C&center=true&vCenter=true&width=520&lines=%3E+hello+world!+(%E2%97%95%E2%80%BF%E2%97%95)%E2%99%A1;ICE+student+%2F+aspiring+dev+%F0%9F%8C%B8;coding+with+coffee+%26+curiosity+%E2%98%95;let's+build+something+cute+%2B+useful!" alt="Typing SVG"/></a>
 
-> building things that are **smart, secure & a little bit cute** ✦
+<br/><br/>
 
-I'm **Shafika Binte Ismail**, an Information & Communication Engineering student who likes turning messy problems into tiny, understandable systems.
+<a href="mailto:Shafikabinteismail@gmail.com"><img src="https://img.shields.io/badge/email-Shafikabinteismail%40gmail.com-FADADD?style=for-the-badge&logo=gmail&logoColor=6B5B73&labelColor=FFF6F8"/></a>
+<a href="https://www.linkedin.com/in/shafika-i-3691ba21a"><img src="https://img.shields.io/badge/linkedin-say%20hi!-C9E4DE?style=for-the-badge&logo=linkedin&logoColor=6B5B73&labelColor=F3FBF8"/></a>
 
-Currently exploring the intersection of:
+</div>
 
-`🤖 AI/ML` + `🔐 Cybersecurity` + `☁️ Cloud` + `📊 Explainable AI`
+<br/>
 
-I like projects that aren't just *"the model got 99% accuracy"* —
-I want to know **why it made that decision too.** 🎀
+## ⋆｡‧˚ʚ about me ɞ˚‧｡⋆
 
-<br clear="right"/>
+> a lil undergrad studying **Information & Communication Engineering**, currently vibing between lecture slides and side projects (◕‿◕✿)
 
----
+- 🌷 turning ideas into practical, usable things — bit by bit
+- 🐣 forever learning: **AI · Machine Learning · Cybersecurity · Data**
+- 🎀 believes good software should feel calm, kind & user-centred
+- ☁️ soft-launching new project ideas in my head 24/7
 
-## 🌷 a little about me
+<br/>
 
-```yaml
-name: Shafika Binte Ismail
-degree: Information & Communication Engineering
-currently: building + learning + occasionally fighting bugs at 3am
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Cybersecurity
-  - Explainable AI
-  - User Behaviour Analytics
-  - Cloud Security
-  - Software Development
+## ᡣ𐭼 my lil toolbox
 
-currently_learning:
-  - Anomaly Detection
-  - Explainable ML
-  - Cloud Security
-  - Real-time Behaviour Analytics
+<div align="center">
 
-fun_fact: >
-  I like making serious technical projects look cute ✨
-```
+<img src="https://img.shields.io/badge/Python-E5D4EF?style=for-the-badge&logo=python&logoColor=6B5B73&labelColor=FBF3FC"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FADADD?style=for-the-badge&logo=scikitlearn&logoColor=6B5B73&labelColor=FFF6F8"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-C9E4DE?style=for-the-badge&logo=openai&logoColor=6B5B73&labelColor=F3FBF8"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-FFF3B0?style=for-the-badge&logo=pandas&logoColor=6B5B73&labelColor=FFFCEB"/>
+<br/>
+<img src="https://img.shields.io/badge/Cybersecurity-B5D8EB?style=for-the-badge&logo=hackthebox&logoColor=6B5B73&labelColor=EFF8FC"/>
+<img src="https://img.shields.io/badge/Web%20Development-E5D4EF?style=for-the-badge&logo=html5&logoColor=6B5B73&labelColor=FBF3FC"/>
+<img src="https://img.shields.io/badge/UI%2FUX-FADADD?style=for-the-badge&logo=figma&logoColor=6B5B73&labelColor=FFF6F8"/>
+<img src="https://img.shields.io/badge/Git%2FGitHub-C9E4DE?style=for-the-badge&logo=github&logoColor=6B5B73&labelColor=F3FBF8"/>
 
----
+</div>
 
-## 🧸 things i've built
+<br/>
 
-### 🤖 AI / ML
+## 🎠 things i've built
 
-| project                           | what it does                                                              |
-| --------------------------------- | ------------------------------------------------------------------------- |
-| 📩 **Email Spam Detection**       | ML-based spam classification using TF-IDF + Linear SVM                    |
-| 🎣 **Phishing Website Detection** | Detects potentially malicious websites using machine learning             |
-| 🧠 **MomCare**                    | Explainable AI-based early-warning system for postpartum depression risk  |
-| ☁️ **Cloud Behaviour Analytics**  | Behaviour-based anomaly detection for potential insider-threat indicators |
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 💻 software & apps
+**🕸️ AlumniVerse**
+alumni networking & management platform for connecting grads and sharing opportunities
+<br/><sub>`Web Dev` `Database` `UI/UX`</sub>
 
-| project                          | stack                                            |
-| -------------------------------- | ------------------------------------------------ |
-| 🛍️ **DokanMate**                | React Native + Expo + Node.js + MongoDB + SQLite |
-| 🪄 **AlumniVerse**               | Web/app-based alumni interaction platform        |
-| 🎨 **Portfolio Projects**        | React + Tailwind + TypeScript                    |
-| 🧪 **Software Testing Projects** | Selenium IDE + software testing methodologies    |
+</td>
+<td width="50%" valign="top">
 
----
+**🏪 DokanMate**
+mobile POS & shop management system for small shop owners
+<br/><sub>`Mobile Dev` `POS` `Database`</sub>
 
-## 🎀 my tech shelf
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### languages
+**📬 Email Spam Detection**
+TF-IDF + Linear SVM spam classifier, **98.65% accuracy** ✨
+<br/><sub>`Python` `TF-IDF` `Linear SVM` `ML`</sub>
 
-![Python](https://img.shields.io/badge/Python-ffd6e7?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-fff0b8?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-d9e9ff?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![HTML5](https://img.shields.io/badge/HTML5-ffe0d2?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-ded7ff?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+</td>
+<td width="50%" valign="top">
 
-### development
+**🎣 Phishing Website Detection**
+ML-based phishing site detector, **~96.97% accuracy** ✨
+<br/><sub>`Python` `Machine Learning` `Cybersecurity`</sub>
 
-![React](https://img.shields.io/badge/React-e1f7ff?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-e1f7ff?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-dcf8df?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-f1f1f1?style=for-the-badge\&logo=express\&logoColor=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind-DCF7F5?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
 
-### AI / data / security
+**🤱 MomCare**
+explainable AI early-warning system for postpartum depression risk assessment
+<br/><sub>`Python` `XGBoost` `SHAP` `Explainable AI`</sub>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-fce1d4?style=for-the-badge\&logo=scikit-learn\&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-e8dcff?style=for-the-badge\&logo=pandas\&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-dcefff?style=for-the-badge\&logo=numpy\&logoColor=013243)
-![MongoDB](https://img.shields.io/badge/MongoDB-e0f5df?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![Git](https://img.shields.io/badge/Git-fde0dc?style=for-the-badge\&logo=git\&logoColor=F05032)
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🐣 currently cooking...
+## ˚ ༘ ೀ⋆｡˚ stats corner
 
-### ☁️ a thesis project
+<div align="center">
 
-**A Lightweight, Adaptive & Explainable User Behaviour Analytics Framework for Cloud Data Leakage Detection**
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=B37E9C&icon_color=E5A6C4&text_color=8A7690" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=transparent&hide_border=true&ring=E5A6C4&fire=FADADD&currStreakLabel=B37E9C" height="165"/>
 
-working on:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=B37E9C&text_color=8A7690" height="165"/>
 
-`multi-modal behavioural features`
-`→ anomaly detection`
-`→ concept drift adaptation`
-`→ explainable security alerts`
+</div>
 
-Basically:
+<br/>
 
-> **"what is this user doing?"**
-> ↓
-> **"is it weird?"**
-> ↓
-> **"why is it weird?"**
-> ↓
-> **"should we worry?"** 🔐
+## ♡ say hi
 
----
+<div align="center">
 
-## 🌸 projects i'm proud of
+**Shafikabinteismail@gmail.com** · [linkedin.com/in/shafika-i](https://www.linkedin.com/in/shafika-i-3691ba21a)
 
-<details>
-<summary>💌 Email Spam Detection</summary>
+thanks for stopping by — sending you good vibes and virtual bubble tea 🧋
 
-A machine-learning spam classifier using:
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C9E4DE,50:E5D4EF,100:FADADD&height=110&section=footer" width="100%"/>
 
-* TF-IDF feature extraction
-* Linear SVM
-* SMS Spam Collection dataset
-
-**Accuracy: 98.65%**
-
-</details>
-
-<details>
-<summary>🧸 MomCare</summary>
-
-An explainable AI early-warning system exploring postpartum depression risk assessment using behavioural/survey-based indicators.
-
-The focus is not just prediction — it's making the model's reasoning understandable.
-
-</details>
-
-<details>
-<summary>☁️ Cloud Insider-Threat Research</summary>
-
-My current research direction explores non-NLP User Behaviour Analytics for cloud environments, focusing on:
-
-* lightweight anomaly detection
-* adaptive models
-* concept drift
-* explainable alerts
-* real-time telemetry
-
-</details>
-
----
-
-## 📊 github garden
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafikabinteismail&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff8fbd&icon_color=ff8fbd&text_color=888888" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafikabinteismail&layout=compact&hide_border=true&bg_color=00000000&title_color=ff8fbd&text_color=888888" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shafikabinteismail&hide_border=true&background=00000000&ring=ff8fbd&fire=ff8fbd&currStreakLabel=ff8fbd" />
-</p>
-
----
-
-## 🐇 tiny corner of the internet
-
-```text
-╭────────────────────────────────────╮
-│                                    │
-│   🌷 code       →   make things    │
-│   🧸 ai         →   make them smart│
-│   🔐 security   →   keep them safe │
-│   🎀 design     →   make them cute │
-│                                    │
-│          one bug at a time ♡       │
-│                                    │
-╰────────────────────────────────────╯
-```
-
----
-
-## 💌 let's connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shafika-i-3691ba21">
-<img src="https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-</a>
-
-<a href="mailto:Shafikabinteismail@gmail.com">
-<img src="https://img.shields.io/badge/Email-fff0f5?style=for-the-badge&logo=gmail&logoColor=EA4335">
-</a>
-
-</p>
-
-<p align="center">
-  <sub>made with ♡, questionable amounts of caffeine, and way too many tabs</sub>
-</p>
-
-<p align="center">
-  <sub>୨୧ ─────────────── ୨୧</sub>
-</p>
+</div>
