@@ -10,7 +10,7 @@ I'm **Shafika Binte Ismail**, an Information & Communication Engineering student
 
 Currently exploring the intersection of:
 
-`🤖 AI/ML` + `🔐 Cybersecurity` + `☁️ Cloud` + `📊 Explainable AI`
+` AI/ML` + ` Cybersecurity` + ` Cloud` + ` Explainable AI`
 
 I like projects that aren't just *"the model got 99% accuracy"* —
 I want to know **why it made that decision too.** 🎀
@@ -21,27 +21,27 @@ I want to know **why it made that decision too.** 🎀
 
 ##  Things I've worked with
 
-### 🤖 AI / ML
+###  AI / ML
 
 | project                           | what it does                                                              |
 | --------------------------------- | ------------------------------------------------------------------------- |
-| 📩 **Email Spam Detection**       | ML-based spam classification using TF-IDF + Linear SVM                    |
-| 🎣 **Phishing Website Detection** | Detects potentially malicious websites using machine learning             |
-| 🧠 **MomCare**                    | Explainable AI-based early-warning system for postpartum depression risk  |
-| ☁️ **Cloud Behaviour Analytics**  | Behaviour-based anomaly detection for potential insider-threat indicators |
+|  **Email Spam Detection**       | ML-based spam classification using TF-IDF + Linear SVM                    |
+|  **Phishing Website Detection** | Detects potentially malicious websites using machine learning             |
+|  **MomCare**                    | Explainable AI-based early-warning system for postpartum depression risk  |
+|  **Cloud Behaviour Analytics**  | Behaviour-based anomaly detection for potential insider-threat indicators |
 
-### 💻 software & apps
+###  software & apps
 
 | project                          | stack                                            |
 | -------------------------------- | ------------------------------------------------ |
-| 🛍️ **DokanMate**                | React Native + Expo + Node.js + MongoDB + SQLite |
-| 🪄 **AlumniVerse**               | Web/app-based alumni interaction platform        |
-| 🎨 **Portfolio Projects**        | React + Tailwind + TypeScript                    |
-| 🧪 **Software Testing Projects** | Selenium IDE + software testing methodologies    |
+|  **DokanMate**                | React Native + Expo + Node.js + MongoDB + SQLite |
+|  **AlumniVerse**               | Web/app-based alumni interaction platform        |
+|  **Portfolio Projects**        | React + Tailwind + TypeScript                    |
+|  **Software Testing Projects** | Selenium IDE + software testing methodologies    |
 
 ---
 
-## 🎀 my tech shelf
+##  my tech shelf
 
 ### languages
 
